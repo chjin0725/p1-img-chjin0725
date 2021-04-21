@@ -3,25 +3,23 @@
 
 ## code explaination
 * EDA
- - EDA code.
+  - EDA code.
 * sub
- - inference with trained model and make sub.csv
+  - inference with trained model and make sub.csv
 * tsne
- - another EDA-like code. visualize logits of validation data set using t-sne.
-* check_false_positive
- - another EDA-like code. check false positive data.
+  - another EDA-like code. visualize logits of validation data set using t-sne.
 * dataset
- - define DataSet.
+  - define DataSet.
 * focal_loss
- - define Focal loss
+  - define Focal loss
 * label_smoothing
- - define Label Smoothing loss
+  - define Label Smoothing loss
 * abgMeter
- - calculate metric like accuracy or f1 score.
+  - calculate metric like accuracy or f1 score.
 * acc_per_label
- - calculate accuracy for every class.
+  - calculate accuracy for every class.
 * effnet_b0_fine_tune
- - training efficientnet-b0 and save model weights with the best f1 score.
+  - training efficientnet-b0 and save model weights with the best f1 score.
 ## Getting Started    
 ### Dependencies
 - torch==1.6.0
