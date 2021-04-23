@@ -14,7 +14,7 @@
   - define Focal loss
 * label_smoothing
   - define Label Smoothing loss
-* abgMeter
+* agMeter
   - calculate metric like accuracy or f1 score.
 * acc_per_label
   - calculate accuracy for every class.
